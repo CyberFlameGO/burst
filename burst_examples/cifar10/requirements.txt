@@ -4,5 +4,5 @@ torchsummary==1.5.1
 numpy==1.20.2
 matplotlib==3.4.1
 sklearn==0.0
-jupyterlab==3.0.14
+jupyterlab==3.6.7
 tee==0.0.3
